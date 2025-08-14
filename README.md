@@ -1,6 +1,8 @@
 # Retail-Sales-Analysis-using-SQL
+
 Project Title: Retail Sales Analysis
 Database: retail_database
+
 This project will create a retail sales database, look at the data to understand it (exploratory data analysis), clean it, and answer some business questions using SQL queries. It’s a good project for beginners who want to learn the basics of SQL and start building skills in data analysis.
 
 # Project Structure
@@ -12,5 +14,5 @@ This project will create a retail sales database, look at the data to understand
   - Sales Trends
   - Customer Insights
 4. Conclusion
-   This project serves as a comprehensive introduction to SQL for data analysts, covering database setup, data cleaning, exploratory data analysis, and        business-driven SQL queries. The findings from this project can help drive business decisions by understanding sales patterns, customer behavior, and       product performance.
+ This project serves as a comprehensive introduction to SQL for data analysts, covering database setup, data cleaning, exploratory data analysis, and       business-driven SQL queries. The findings from this project can help drive business decisions by understanding sales patterns, customer behavior,         and product performance.
 
